@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/32/3d/34/323d34e5fda59b93fbc713bbacbc07d3.gif)
+![MasterHead](https://user-images.githubusercontent.com/39142850/67110554-fdea5400-f20d-11e9-834a-d459a612b7b1.gif)
 <h1 align="center">Hi 👋, I'm Francis Noel Rimon</h1>
 <h3 align="center">I'm lazy but I have many goals in life</h3>
 <img align="right" alt="Coding" width="200" src="https://bestanimations.com/Computers/funny-computer-animated-gif-53.gif">
